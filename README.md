@@ -2,9 +2,9 @@
 
 ## 当前应用
 
-| 应用 | 版本 | 架构 | 描述 |
-|------|------|------|------|
-| [mini-browser](https://github.com/LiangXiangan/mini-browser) | 1.0.0 | amd64 | 基于 PyQt6 + QtWebEngine 的轻量级网页浏览器 |
+| 应用 | 版本 | 架构 | 作者 | 描述 |
+|------|------|------|------|------|
+| mini-browser | 1.0.0 | amd64 | gbfdhenr | 基于 PyQt6 + QtWebEngine 的轻量级网页浏览器 |
 
 ## 使用方式
 
