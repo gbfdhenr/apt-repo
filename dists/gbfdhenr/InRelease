@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: gbfdhenr
+Components: main
+Date: Tue, 19 May 2026 11:28:36 +0000
+Description: GBfdHenr APT Repository
+Label: GBfdHenr APT Repository
+Origin: GBfdHenr
+Suite: stable
+MD5Sum:
+ 298eee9e7c23ca874b70b20d241b7e22              194 dists/gbfdhenr/Release
+ d9a145cd1afa25dd28bb925c3e0cd285             1175 dists/gbfdhenr/main/binary-amd64/Packages
+ 5309146f3df36aa31e3e1f9a3e66004c              742 dists/gbfdhenr/main/binary-amd64/Packages.gz
+SHA1:
+ 8eed612f0b0af019ad9d84b34cb559a563399c5e              194 dists/gbfdhenr/Release
+ 95706775efef5208db9c870ddf0b3e7ef22b51cb             1175 dists/gbfdhenr/main/binary-amd64/Packages
+ de91ec9b1f12366b1f459e84d6e652672dca346a              742 dists/gbfdhenr/main/binary-amd64/Packages.gz
+SHA256:
+ 04ed2a9a959c9ddc3b5ee5395a712f71157548edc97508a0c7f2cca8a99ceaa2              194 dists/gbfdhenr/Release
+ 1c3518e23afc02ecda9969e504ce1d8d7d840dcce782c1e80bd07a4322ad548e             1175 dists/gbfdhenr/main/binary-amd64/Packages
+ 36dbd7cd1999966b3d106b0a9e808680b757e9049ec201b6a2c8efec32c759ca              742 dists/gbfdhenr/main/binary-amd64/Packages.gz
+SHA512:
+ 33299bbbae5c75c459385f4e30e3476822f67ba5bafb3a5cfaf3ea82373e9d6d5a300f6d78b2e78a78159e79f9fc9fb494be0a433075697d7dd208676e89dd9e              194 dists/gbfdhenr/Release
+ 0a43fe2ef4c5da59763e3219ec919a89c56c92692a48871aa022155e574a765d1260bedcdc32dcc7223010914742256d5337b36cc577efcf0957bb58baab33cb             1175 dists/gbfdhenr/main/binary-amd64/Packages
+ 426b2e3c56b9a7222f0aad582680c596e2840c3770a6aa8cb3086d4b2ab8f2acc05689fc2681d5bf4e780a89d756730fb1f524da00c0ab0761911df3d9849e16              742 dists/gbfdhenr/main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEJy5WFCnS4UdM70k1yqexudLjYicFAmoMSWQTHGdiZmRoZW5y
+QGxvY2FsaG9zdAAKCRDKp7G50uNiJ1iGD/9C67to63/WkPte8GsUv5wdx9UqC4KS
+C2Qa2GKAVBOIlhf3jt6IP6G1q6S+fz9xL9ja66G5GdKWnXPaLqsoo8//TOThRe9w
+2h0O9mWH2QTYsHpNoZVfVRyxboiVAKGCkIsZXWon99auRJn1irT5H94YuFqc/RHQ
+ZU4ZVOjD6trPXK+j16l3aaeGsDT1lLVd1o5jIHic5uP19xet7lFkx39dXH3RA5t4
+lNKKaijHQKmuLuWas2MS4NL6oA8xcigNePn0PHTIUBXNJrEmRAaDhwktW48Hh4qY
+bLQ7EfZOvP+ZQa0EC3SHeQEzgubeJkKNMJ7wnpJayWa/DIExlCfxCnVmqa6bUmKA
+1iS/FPik9t4uAMVWJntWo2MMFjDqxV3Z9D3gaU/oYgyXalXck7EIT+wnCVYgZ+kj
+JV2mzbSzXWuj9TQ5nnqKjF7W4LWT5bx4WS+8jMbImTwxYkRAo64gsfhEWdWjZwOf
+4idZVacumjplgBZDEgOAtDiKzfDf9VWrc3KkX1Bqm4ymXjngYWNxVsOoPksyCUyH
+uFmcXovcTNPMubeh3tGJ7LcvPQ8hEug2Un8SeuqJ2iBdwqD67+oFPMWjkP6w7qRE
+S1XdbS8a4lTv7osC5bTp7/rXZ9UJStK/MwT1kvt2JV4wUc+YkYgMzpzpTLqSlS29
+HvDtE7lv3wjjMg==
+=IWlF
+-----END PGP SIGNATURE-----
