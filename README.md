@@ -11,11 +11,10 @@
 ```bash
 # 导入 GPG 公钥
 sudo mkdir -p /etc/apt/keyrings
-sudo curl -fsSL https://raw.githubusercontent.com/gbfdhenr/apt-repo/master/gpg.gpg \
-  -o /etc/apt/keyrings/gbfdhenr.gpg
+sudo curl -fsSL https://github.liangxiangan.top/gpg.gpg -o /etc/apt/keyrings/gbfdhenr.gpg
 
 # 添加源
-echo "deb [signed-by=/etc/apt/keyrings/gbfdhenr.gpg arch=amd64] https://raw.githubusercontent.com/gbfdhenr/apt-repo/master gbfdhenr main" \
+echo "deb [signed-by=/etc/apt/keyrings/gbfdhenr.gpg arch=amd64] https://github.liangxiangan.top gbfdhenr main" \
   | sudo tee /etc/apt/sources.list.d/gbfdhenr.list
 
 # 更新并安装
